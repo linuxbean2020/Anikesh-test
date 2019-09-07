@@ -1,0 +1,22 @@
+{
+  "name": "setitandleaveit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxbean2020/setitandleaveit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linuxbean2020/setitandleaveit/issues"
+  },
+  "homepage": "https://github.com/linuxbean2020/setitandleaveit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
